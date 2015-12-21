@@ -16,9 +16,7 @@
     "UserAgent"
   ],
   "license": "MIT",
-  "main": {
-    "dist/useragent.min.js"
-  },
+  "main": "dist/useragent.min.js",
   "ignore": [
     "**/.*",
     "node_modules",
